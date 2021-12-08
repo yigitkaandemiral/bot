@@ -1,0 +1,50 @@
+h1{
+    color: red;
+}
+body{
+    text-align: center; 
+}
+nav{
+    background-color:lightseagreen;
+    color: black;
+    
+    
+}
+a:visited,a,a:hover {
+    text-decoration: none;
+}
+#teknobot{
+    background-image: url(/img/Teknobot.jpg);
+    background-size: 200px 200px;
+    background-repeat: no-repeat;
+}
+
+#teknoYazi{
+    text-align: center;
+    color: white;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+  }
+  
